@@ -1,4 +1,4 @@
-alpaca-trade-api
+alpaca-py
 python-dotenv
 pandas
 numpy
